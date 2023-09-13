@@ -1,0 +1,12 @@
+.cover{
+    color: #fff;
+    background-image: url('../img/bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: bottom;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    min-height: 100vh;
+}
